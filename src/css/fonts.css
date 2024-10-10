@@ -1,11 +1,11 @@
 @font-face {
   font-family: VazirFont;
   font-weight: bold;
-  src: url("/assets/fonts/Vazir-Bold.woff") format("woff");
+  src: url("../../assets/fonts/Vazir-Bold.woff") format("woff");
 }
 
 @font-face {
   font-family: VazirFont;
   font-weight: normal;
-  src: url("/assets/fonts/Vazir.woff") format("woff");
+  src: url("../../assets/fonts/Vazir.woff") format("woff");
 }
